@@ -1,0 +1,10 @@
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\bin\Debug\Lab4_adonet.exe.config
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\bin\Debug\Lab4_adonet.exe
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\bin\Debug\Lab4_adonet.pdb
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.csproj.AssemblyReference.cache
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.Form1.resources
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.exe
+C:\Users\Пользователь\source\repos\Lab4_adonet\Lab4_adonet\obj\Debug\Lab4_adonet.pdb
